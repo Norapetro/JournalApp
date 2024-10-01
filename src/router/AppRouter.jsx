@@ -8,7 +8,7 @@ const AppRouter = () => {
     <Routes>
 
        {/* Login y Registro */}
-       <Route path="/auth/*" element={<AuthRoutes /> }/> 
+       <Route path="/auth/*" element={<AuthRoutes/> }/> 
 
 
        {/* JournalApp */}
